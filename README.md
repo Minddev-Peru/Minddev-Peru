@@ -1,60 +1,60 @@
-# 🚀 Minddev Perú
-**Transformamos ideas en soluciones digitales**
+# 👨‍💻 Minddev Perú — Transformamos ideas en soluciones digitales 🚀
 
-![Minddev Logo](https://minddevperu.com/assets/img/logo-header.png)
-
----
-
-## 💼 ¿Quiénes somos?
-En **Minddev Perú** creamos sitios web modernos, funcionales y optimizados para resultados. Nos especializamos en el desarrollo de plataformas digitales que combinan rendimiento, diseño y experiencia de usuario.
+> Desarrollo web moderno, diseño UI/UX atractivo y tecnología a tu alcance.
 
 ---
 
-## 🛠️ Servicios
-- Desarrollo Web
-- Aplicaciones móviles (Android / iOS)
-- Diseño UX/UI
-- Branding & Identidad Visual
-- SEO técnico y estratégico
-- Soporte y mantenimiento
+### 🧠 ¿Quiénes somos?
+
+**Minddev** es una startup digital que ofrece soluciones tecnológicas a negocios y emprendedores. Nos especializamos en construir experiencias digitales con un enfoque en rendimiento, diseño y escalabilidad.
 
 ---
 
-## 🧰 Tecnologías
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+### 💼 Servicios que ofrecemos
+
+- 🖥️ **Desarrollo Web** — Desde landing pages hasta plataformas completas.
+- 📱 **Aplicaciones Móviles** — Apps intuitivas en Android y iOS.
+- 🎨 **Diseño UI/UX** — Interfaz moderna, accesible y optimizada.
+- 🚀 **Optimización SEO** — Haz que tu negocio destaque en buscadores.
+- ☁️ **Implementación Web** — Hosting, dominios y despliegue profesional.
 
 ---
 
-## 📂 Proyectos destacados
-| Proyecto | Descripción | Link |
-|---------|-------------|------|
-| Dominick Pro | Web inmobiliaria con diseño y formularios personalizados | [🔗 Ver sitio](https://dominickpro.com) |
-| Curso React Native | Aplicación mobile con CRUD y JSONPlaceholder | _Repositorio privado_ |
+### 🛠️ Tecnologías que usamos
+
+| 💻 Frontend | ⚙️ Backend | ⚡ Dev Tools |
+|------------|------------|-------------|
+| React.js ⚛️ | Node.js 🟢 | Git & GitHub 🐙 |
+| Tailwind CSS 💨 | Express.js 🚂 | Figma 🎨 |
+| JavaScript 💛 | MongoDB 🍃 | Vite ⚡ |
 
 ---
 
-## 💡 Nuestros valores
-- 🧠 Disciplina
-- 🤝 Compromiso
-- 🦾 Productividad
-- 🫡 Lealtad
+### 🌎 ¿Por qué elegirnos?
+
+✅ Código limpio y escalable  
+✅ Comunicación constante con el cliente  
+✅ Soporte técnico y actualizaciones  
+✅ Certificación de prácticas profesionales  
+✅ Trabajo 100% remoto
 
 ---
 
-## 📩 Contacto
-📬 Escríbenos a: **minddevperu@gmail.com**  
-🌐 Web: [minddevperu.com](https://minddevperu.com)  
-📷 Instagram: [@minddevperu](https://instagram.com/minddevperu)
+### 📣 Estamos contratando
+
+🎓 Si eres estudiante de Computación, Sistemas o afines y te apasiona el desarrollo web...  
+**¡Únete a nuestro equipo como Trainee Frontend Developer!**
+
+> 👉 Escríbenos por [Instagram](https://instagram.com/minddev.pe) o [LinkedIn](https://linkedin.com/company/minddevperu)
 
 ---
 
-## 🙌 ¡Gracias por visitar!
-*Con Minddev, el futuro digital de tu marca comienza hoy.*
+### 📩 Contacto
 
+- 🌐 [minddevperu.com](https://minddevperu.com)
+- 📧 contacto@minddevperu.com
+- 📱 +51 900 000 000
+
+---
+
+> _“En Minddev creemos que cada idea merece ser bien construida”_ 💡
