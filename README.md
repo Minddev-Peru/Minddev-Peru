@@ -1,3 +1,5 @@
+<img src="https://github.com/tu-usuario/tu-repositorio/blob/main/portada-minddev.png" alt="Minddev Perú banner" style="width:100%; border-radius: 12px;" />
+
 # 👨‍💻 Minddev Perú — Transformamos ideas en soluciones digitales 🚀
 
 > Desarrollo web moderno, diseño UI/UX atractivo y tecnología a tu alcance.
