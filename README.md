@@ -1,6 +1,6 @@
-<img src="https://github.com/tu-usuario/tu-repositorio/blob/main/portada-minddev.png" alt="Minddev Perú banner" style="width:100%; border-radius: 12px;" />
-
 # 👨‍💻 Minddev Perú — Transformamos ideas en soluciones digitales 🚀
+
+<a href='https://postimg.cc/R6WdYvY5' target='_blank'><img src='https://i.postimg.cc/JnqFGncn/Azul-Blanco-Simple-Abstracto-L-neas-Tecnolog-a-Banner-para-Linked-In.png' border='0' alt='Azul-Blanco-Simple-Abstracto-L-neas-Tecnolog-a-Banner-para-Linked-In'/></a>
 
 > Desarrollo web moderno, diseño UI/UX atractivo y tecnología a tu alcance.
 
