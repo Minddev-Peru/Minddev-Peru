@@ -1,4 +1,7 @@
-# 👨‍💻 Minddev Perú — Transformamos ideas en soluciones digitales 🚀
+<div align="center">
+  <h1>👋 Hola, nosotros somos Minddev Perú 🚀</h1>
+  <p>Frontend Developer passionate about building clean and intuitive digital experiences.</p>
+</div>
 
 <a href='https://postimg.cc/R6WdYvY5' target='_blank'><img src='https://i.postimg.cc/JnqFGncn/Azul-Blanco-Simple-Abstracto-L-neas-Tecnolog-a-Banner-para-Linked-In.png' border='0' alt='Azul-Blanco-Simple-Abstracto-L-neas-Tecnolog-a-Banner-para-Linked-In'/></a>
 
@@ -47,7 +50,7 @@
 🎓 Si eres estudiante de Computación, Sistemas o afines y te apasiona el desarrollo web...  
 **¡Únete a nuestro equipo como Trainee Frontend Developer!**
 
-> 👉 Escríbenos por [Instagram](https://instagram.com/minddev.pe) o [LinkedIn](https://linkedin.com/company/minddevperu)
+> 👉 Escríbenos por [Instagram](https://www.instagram.com/minddevperu/) o [LinkedIn](https://www.linkedin.com/company/minddev-peru/)
 
 ---
 
@@ -55,8 +58,9 @@
 
 - 🌐 [minddevperu.com](https://minddevperu.com)
 - 📧 contacto@minddevperu.com
-- 📱 +51 900 000 000
+- 📱 +51 914 639 227
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 > _“En Minddev creemos que cada idea merece ser bien construida”_ 💡
