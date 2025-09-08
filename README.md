@@ -2,7 +2,7 @@
   <h1>👋 Hola, nosotros somos Minddev Perú 🚀</h1>
 </div>
 
-<a href='https://postimg.cc/R6WdYvY5' target='_blank'><img src='https://i.postimg.cc/JnqFGncn/Azul-Blanco-Simple-Abstracto-L-neas-Tecnolog-a-Banner-para-Linked-In.png' border='0' alt='Azul-Blanco-Simple-Abstracto-L-neas-Tecnolog-a-Banner-para-Linked-In'/></a>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/3wP9G6Sf/Imagen-de-Whats-App-2025-09-08-a-las-11-03-10-33e81317.jpg' border='0' alt='Imagen-de-Whats-App-2025-09-08-a-las-11-03-10-33e81317'/></a>
 
 > Desarrollo web moderno, diseño UI/UX atractivo y tecnología a tu alcance.
 
@@ -57,7 +57,7 @@
 
 - 🌐 [minddevperu.com](https://minddevperu.com)
 - 📧 contacto@minddevperu.com
-- 📱 +51 914 639 227
+- 📱 +51 903 067 489
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
