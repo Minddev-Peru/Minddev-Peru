@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hola, nosotros somos Minddev Perú 🚀</h1>
+  <h1>👋 Hola, nosotros somos MindDev Perú 🚀</h1>
 </div>
 
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/3wP9G6Sf/Imagen-de-Whats-App-2025-09-08-a-las-11-03-10-33e81317.jpg' border='0' alt='Imagen-de-Whats-App-2025-09-08-a-las-11-03-10-33e81317'/></a>
